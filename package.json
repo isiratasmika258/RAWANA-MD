@@ -38,7 +38,6 @@
     "undici": "latest",
     "extract-zip": "latest",
     "moment-timezone": "latest",
-    "mime-types": "latest",
     "mongoose":"latest"
   }
 }
